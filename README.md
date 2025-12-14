@@ -1,2 +1,2 @@
 # Kodec
-New Typescript based IDE taking inspiration from VS Code &amp; Zed.
+New Rust based Code Editor taking inspiration from VS Code &amp; Zed.
