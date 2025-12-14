@@ -1,2 +1,2 @@
 # Kodec
-New Rust based IDE taking inspiration from VS Code &amp; Zed.
+New Typescript based IDE taking inspiration from VS Code &amp; Zed.
